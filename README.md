@@ -1,4 +1,4 @@
-# Septim Tools v2.0
+# Septim Tools
 
 Outil Discord en Python complet - 28 fonctionnalites en menu interactif.
 
